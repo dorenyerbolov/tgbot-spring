@@ -79,7 +79,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>Root</mainClass>
+                            <mainClass>TelegramBotApplication</mainClass>
                             <name>workerBot</name>
                         </program>
                     </programs>
